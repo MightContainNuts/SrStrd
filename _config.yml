@@ -27,6 +27,9 @@ twitter_username: MightContaiNuts
 github_username:  MightContainNuts
 
 # Build settings
+markdown: kramdown
+permalink: none
+
 plugins:
   - jekyll-feed
 
